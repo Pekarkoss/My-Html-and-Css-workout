@@ -1,0 +1,18 @@
+/*
+ p --> tüm p etiketleri
+
+ div p --> div ve tüm p etiketleri
+
+
+ div,p -->Tüm div ve p etiketleri
+
+ p + div p etiketinden sonra tüm div paketleri
+
+
+
+
+
+*/
+p + div{
+    color: blue;
+}
