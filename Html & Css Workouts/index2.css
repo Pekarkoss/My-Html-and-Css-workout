@@ -1,0 +1,17 @@
+h2[title="title1"]{
+    color: red;
+}
+p[title = "paragraf"]{
+    color: aqua;
+    text-align: center;
+}
+a[target = "_blank"]{
+    color: antiquewhite;
+}
+input[type = "text"]{
+    background-color: red;
+}
+input[type = "button"]{
+    color: aqua;
+    background-color: antiquewhite;
+}
